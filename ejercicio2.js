@@ -1,4 +1,4 @@
-//Ejercicio2
+//Ejercicio3
 /*Declare y asigne valor a una variable llamada numero1 y numero2 e imprima en la
 consola la suma de ambos números.
 Nota: La suma debe calcularse utilizando las variables numero1 y numero2 en
